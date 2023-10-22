@@ -1,5 +1,5 @@
 # Portfolio
-Third Year Module, task was to research an assigned topic in mathemtical software, write a report, and deliver a presemtation. 
+Third Year Module, task was to research an assigned topic in mathemtical software, write a report, and deliver a presentation. 
 My topic was the method of lines (MOL) which is a type of finite difference scheme used to approximate partial differential equations.
 We worked in groups of two, I handled the mathematical treatment and worked examples for the final report. 
 
